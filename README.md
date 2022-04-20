@@ -3,4 +3,6 @@
 
 This is Lab 1 for Tomoya Vernon
 
+Simple html with csss to display information about a person
+
 ## Branching 
